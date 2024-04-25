@@ -24,5 +24,8 @@ public class Git01 {
 
         // version 5
         System.out.println("Local'deki repoyu remote ile tanistirmak icin : git remote add origin URL ");
+
+        // remote'da version 6
+        System.out.println("version 6");
     }
 }

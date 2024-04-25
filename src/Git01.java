@@ -17,5 +17,12 @@ public class Git01 {
         System.out.println("Git01,Git02,Git03 class'larini olusturalim.");
         System.out.println("Main method tanimlayip icinde, sout , if-else ile kodlar yazalim.");
         System.out.println("Toplamda 6 tane versiyon olusturalim.");
+
+
+
+
+
+        // version 5
+        System.out.println("Local'deki repoyu remote ile tanistirmak icin : git remote add origin URL ");
     }
 }
